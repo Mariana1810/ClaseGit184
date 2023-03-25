@@ -1,2 +1,7 @@
-body {color blue;
+body {color: red;
+}
+li{
+    color:blue;
+    font:bolder;
+    font-size: xx-large;
 }
